@@ -34,9 +34,9 @@ Every Foton developer is a Fullstack Developer. So you should be comfortable on 
 
 ### Before you begin
 
-- [ ] Join [React Brasil](https://react.now.sh), if you haven't already.
+- [x] Join [React Brasil](https://react.now.sh), if you haven't already.
 
-- [ ] Join the `#challenge-foton` channel to chat with us
+- [x] Join the `#challenge-foton` channel to chat with us
 
 ### Technical requirements
 
